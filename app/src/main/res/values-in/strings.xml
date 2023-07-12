@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Live Presensi Guru</string>
+    <string name="hello_sign_in_your_account">Helo, Masukan Akunmu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Masuk</string>
+    <string name="hello_silahkan_masuk">Halo, Silahkan Masuk</string>
+    <string name="Email">Email</string>
+    <string name="forgot_password">Lupa Sandi</string>
+    <string name="history">Riwayat</string>
+
+    <string name="current_location">Lokasi Saat Ini</string>
+    <string name="default_text" translatable="false">-</string>
+    <string name="youre_photo">Foto</string>
+    <string name="check_in">Masuk</string>
+    <string name="attendance">Absen</string>
+    <string name="profile">Profil</string>
+    <string name="check_out">Keluar</string>
+    <string name="change_password">Ubah Password</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="logout">Keluar</string>
+    <string name="old_password">Password Lama</string>
+    <string name="new_password">Password Baru</string>
+    <string name="confirm_new_password">Konfirmasi Password Baru</string>
+    <string name="please_field_youre_email">Mohon isi kolom email</string>
+    <string name="please_use_valid_email">Mohon gunakan email yang benar</string>
+    <string name="please_field_youre_password">Mohon isi kolom password</string>
+    <string name="Failed">Gagal</string>
+    <string name="failed">Gagal!</string>
+    <string name="success">Berhasil</string>
+    <string name="not_granted">Tidak disetujui</string>
+    <string name="required_permission">Required Permission</string>
+    <string name="search_your_location">Mencari lokasi…</string>
+    <string name="failed_to_capture_image">Gagal mengambil gambar</string>
+    <string name="alert">Alert</string>
+    <string name="please_take_your_photo">Please take your photo</string>
+    <string name="apakah_anda_yakin">Apakah anda yakin ?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="success_check_in">Berhasil Masuk</string>
+    <string name="success_check_out">Berhasil Keluar</string>
+    <string name="something_wrong">Ada yang salah</string>
+    <string name="anda_telah_absen">Anda Telah Absen</string>
+
+</resources>
